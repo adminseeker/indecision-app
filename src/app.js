@@ -29,7 +29,7 @@ const onMakeDecision = ()=>{
 
 const appRoot = document.getElementById("app");
 
-const render = ()=>{
+const render =  ()=>{
     const template = (
         <div>
             <h1>{app.title}</h1>
