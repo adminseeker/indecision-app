@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "name": "indecision-app",
+  "description": "A REACT BASED PROJECT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adminseeker/indecision-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adminseeker/indecision-app/issues"
+  },
+  "homepage": "https://github.com/adminseeker/indecision-app#readme"
+}
