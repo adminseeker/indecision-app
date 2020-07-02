@@ -2,4 +2,4 @@
 
 A REACT BASED PROJECT FOR MAKING DECISION ABOUT YOUR CHOICES BY COMPUTER.
 
-Waiting for deployment.....
+Deployed to https://aravind-indecision-app.herokuapp.com
